@@ -1,7 +1,7 @@
 /*function for setup basic*/;
 var box_Delevered2 = 0,
 
-var Engine = Matter.Engine,
+const Engine = Matter.Engine,
 	World  = Matter.World,
 	Bodies = Matter.Bodies;
 	
