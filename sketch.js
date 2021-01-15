@@ -8,7 +8,7 @@ function preload() {
     backImage = loadImage("image3.jpg");
     ZombieSound = loadSound("sound2.mp3");
     helicopterSound = loadSound("sound1.mp3");
-    zombie = loadImage("zombie.png")
+   
 }
 let z = 300;
 /**function for creating all the sprites*/;
