@@ -1,9 +1,9 @@
 /*function for setup basic*/;
 var box_Delevered2 = 0,
 
-const Engine = Matter.Engine,
-	World  = Matter.World,
-	Bodies = Matter.Bodies;
+const Engine = Matter.Engine
+const World  = Matter.World
+const Bodies = Matter.Bodies;
 	
 let flag = "start";
 function startup1(){
